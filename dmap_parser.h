@@ -5,6 +5,7 @@ extern "C" {
 #endif
 
 #include <stdint.h>
+#include <stdlib.h>
 #include <sys/types.h>
 
 #define DMAP_VERSION_MAJOR 1
